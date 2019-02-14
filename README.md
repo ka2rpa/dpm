@@ -18,4 +18,7 @@ How to use Desktop Pattern Matcher (DPM)
    
 Happy matching (:
 
-contact: ka2rpa(at)gmail.com
+contact: ka2rpa+dpm(at)gmail.com
+
+![right before clicking](dpm.png)
+Positive match right before clicking
