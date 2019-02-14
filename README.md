@@ -1,5 +1,21 @@
-# dpm
-How to use Desktop Pattern Matcher (DPM)
+![Desktop Pattern Matcher](images/icon.png) Desktop Pattern Matcher (DPM)
+=========
+
+DPM is Qt-based GUI aplication that will let you choose image pattern from your screen and then 
+can periodically check your screen for such pattern and click on it if you desire.
+
+This was developed for hunting golden cookies in Cookie Clicker (: http://orteil.dashnet.org/cookieclicker/
+
+## How to install DPM
+
+### Windows
+1. Install Microsoft Visual C++ 2017 Redistributable Runtime (for x64)
+2. Just download latest release zip archive, unpack it and run executable
+
+### Linux
+TODO - if anyone will request such thing
+
+## How to use DPM
 
 1. Click "Set Image From ScreenShot" to grab screenshot and select pattern from it.
    Zooming in and out on screenshot is available. Use crop mode to select pattern.
@@ -18,7 +34,5 @@ How to use Desktop Pattern Matcher (DPM)
    
 Happy matching (:
 
-contact: ka2rpa+dpm(at)gmail.com
-
-![right before clicking](dpm.png)
+![right before clicking](images/dpm.png)
 Positive match right before clicking
